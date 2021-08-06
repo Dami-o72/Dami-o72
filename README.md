@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Damilola-o
-- 👀 I’m interested in Front-end development, software development and engineering
+- 
+<!-- - 👀 I’m interested in Front-end development, software development and engineering
 - 🌱 I’m currently learning javascript, APIs, MySQL
-- 💞️ I’m looking to collaborate on any project that combines HTML, CSS and Javascript to produce elegant websites for an interactive and interesting feel
+- 💞️ I’m looking to collaborate on any project that combines HTML, CSS and Javascript to produce elegant websites for an interactive and interesting feel -->
 - 📫 How to reach me ... email: damilola.jo72@gmail.com
 
 <!---
